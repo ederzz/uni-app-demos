@@ -1,9 +1,9 @@
 {
 	"pages": [
         {
-			"path": "pages/SignatureBoard/draw",
+			"path": "pages/SignatureBoard/index",
 			"style": {
-				"navigationBarTitleText": "手写签名2"
+				"navigationBarTitleText": "采集签名"
             }
 		}
 	],
